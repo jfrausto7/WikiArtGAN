@@ -1,5 +1,5 @@
 # WikiArtGAN
- Generating Art using GANs and the WikiArt dataset.
+ Generating Art using a DCGAN and the WikiArt dataset.
 
 ## What is this?
 
